@@ -31,5 +31,5 @@ dependencies {
 //    compile 'com.github.jitpack:android-example:+'
     compile 'com.github.apinrdw:test-jitpack:master'
 //    TODO: unable to sync gradle
-//    compile 'com.github.hgani:androlib:jitpack'
+    compile 'com.github.apinrdw:androlib:master'
 }
