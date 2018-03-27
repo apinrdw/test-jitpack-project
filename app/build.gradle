@@ -29,7 +29,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
 //    compile 'com.github.jitpack:android-example:+'
-    compile 'com.github.apinrdw:test-jitpack:master'
+    compile 'com.github.apinrdw:test-jitpack:03a3143e3385a928e1749e20baa34eb95126e0a2'
 //    TODO: unable to sync gradle
-    compile 'com.github.apinrdw:androlib:master'
+//    compile 'com.github.apinrdw:androlib:master'
 }
